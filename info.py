@@ -15,7 +15,7 @@ RemoveBG_API = os.environ.get("RemoveBG_API", "fH5qkD9xFNeHG4aRth5e1YZB")
 IBB_API = os.environ.get("IBB_API", "c658b2f364a82002e6e3dda5709eef64")
 FORCE_SUB = os.environ.get("FORCE_SUB", "ziddi_shop")
 PORT = os.environ.get('PORT', '8080')          
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 'ziddi_shop'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 'ziddi_shops'))
 LOG_TEXT = """<i><u>👁️‍🗨️USER DETAILS</u>
 
 ○ ID : <code>{id}</code>
